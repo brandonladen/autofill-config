@@ -9,7 +9,7 @@
     "category": "incorrect_response",
     "title": "Incorrect answer?",
     "description": "LaceFi answers based on general knowledge by default. Adding your course notes helps it give answers that match your specific material.",
-    "helperText": "Upload your notes in the *Notes tab* and try again."
+    "helperText": "For the best results, try enabling *Pro Mode* for advanced reasoning and uploading your course notes in the *Notes* tab or using the upload link found in our WhatsApp group description."
   },
   {
     "category": "notes_resources_upload_issue",
