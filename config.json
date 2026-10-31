@@ -1,4 +1,4 @@
 {
-  "api_url": "https://autofill.lacefi.co.ke",
+  "api_url": "https://lacefi-autofill-backend-apis.vercel.app",
   "ghost_mode_force_reveal_url": "https://autofill-site.onrender.com/force-reveal.html"
 }
